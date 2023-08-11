@@ -1,4 +1,4 @@
-Audio Shape Generator
+#Audio Shape Generator
 
 The Audio Shape Generator is a unique and innovative tool that brings together the realms of audio and visual artistry. By harnessing the power of sound, this generator produces captivating designs that are influenced by the audio input provided. Whether you're a visual artist looking for inspiration, a musician seeking to visualize your compositions, or simply curious about the fascinating interplay between sound and form, this generator offers an exciting and creative experience.
 Features
