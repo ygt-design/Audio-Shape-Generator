@@ -1,4 +1,4 @@
-#Audio Shape Generator
+# Audio Shape Generator
 
 The Audio Shape Generator is a unique and innovative tool that brings together the realms of audio and visual artistry. By harnessing the power of sound, this generator produces captivating designs that are influenced by the audio input provided. Whether you're a visual artist looking for inspiration, a musician seeking to visualize your compositions, or simply curious about the fascinating interplay between sound and form, this generator offers an exciting and creative experience.
 Features
@@ -18,25 +18,19 @@ Getting Started
 Follow these steps to start generating captivating audio-driven designs:
 
     Install Dependencies: Clone this repository and install the required dependencies by running the following command:
-
-    bash
-
-npm install
+    
+`npm install`
 
 Provide Audio Input: Prepare an audio file in a supported format (MP3, WAV, etc.) or use a microphone to provide real-time audio input.
 
 Run the Generator: Execute the generator script and specify the path to the audio file or the microphone input source:
 
-bash
-
-node generate.js --input path/to/audio/file.mp3
-
+`node generate.js --input path/to/audio/file.mp3
+`
 Or for microphone input:
 
-bash
-
-node generate.js --microphone
-
+`node generate.js --microphone
+`
 Customize and Explore: Experiment with the customization options provided in the script. Tweak the parameters to observe how they influence the generated shapes and patterns.
 
 Capture and Share: Capture screenshots during the visualization to capture your favorite moments. Share your creations on social media using the hashtag #AudioShapeGenerator to connect with the community.
